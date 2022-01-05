@@ -200,7 +200,7 @@ namespace NBT_Maker
             this.siticoneButton9.ShadowDecoration.Parent = this.siticoneButton9;
             this.siticoneButton9.Size = new System.Drawing.Size(180, 45);
             this.siticoneButton9.TabIndex = 12;
-            this.siticoneButton9.Text = "Discord";
+            this.siticoneButton9.Text = "Website";
             this.siticoneButton9.Click += new System.EventHandler(this.siticoneButton9_Click);
             // 
             // siticoneDragControl1
